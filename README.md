@@ -1,4 +1,8 @@
 ### Hi there 👋
+My name is Peter, I'm a product owner that dabbles in writing code. On this github I store my sideprojects. 
+- 🔭 I’m currently working on my Franklyapp project to collect feedback 
+- 🌱 I’m currently learning Properly doing Python, CI/CD, AWS and Kubernetes
+- 📫 How to reach me: https://petervandoorn.com
 
 <!--
 **two-trick-pony-NL/two-trick-pony-NL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
