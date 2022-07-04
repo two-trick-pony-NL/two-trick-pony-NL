@@ -1,7 +1,7 @@
 ### Hi there 👋
 My name is Peter, I'm a product owner that dabbles in writing code. On this github I store my sideprojects. 
-- 🔭 I’m currently working on my Franklyapp project to collect feedback 
-- 🌱 I’m currently learning Properly doing Python, CI/CD, AWS and Kubernetes
+- 🔭 I’m currently working on my Franklyapp and Scangame projectsts
+- 🌱 I’m currently learning About Python, CI/CD, AWS, Heroku, FastAPI, react-native and Kubernetes
 - 📫 Get in touch: hello@petervandoorn.com or check my homepage https://petervandoorn.com
 
 <!--
