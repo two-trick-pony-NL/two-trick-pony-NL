@@ -1,7 +1,7 @@
 ### Hi there 👋
 My name is Peter, I'm a product owner that dabbles in writing code. On this github I store my sideprojects. 
-- 🔭 I’m currently working on my Franklyapp and Scangame projectsts
-- 🌱 I’m currently learning About Python, CI/CD, AWS, Heroku, FastAPI, react-native and Kubernetes
+- 🔭 I’m currently working on my Mapmaker.nl and a few qrcode games. Launched photoscavenger ios app to the appstore last summer. 
+- 🌱 I’m currently learning About Python, CI/CD, AWS, Django, FastAPI, react-native
 - 📫 Get in touch: hello@petervandoorn.com or check my homepage https://petervandoorn.com
 
 <!--
