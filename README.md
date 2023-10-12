@@ -1,20 +1,16 @@
-### Hi there 👋
-My name is Peter, I'm a product owner that dabbles in writing code. On this github I store my sideprojects. 
-- 🔭 I’m currently working on my Mapmaker.nl and a few qrcode games. Launched photoscavenger ios app to the appstore last summer. 
-- 🌱 I’m currently learning About Python, CI/CD, AWS, Django, FastAPI, react-native
-- 📫 Get in touch: hello@petervandoorn.com or check my homepage https://petervandoorn.com
+# 🚀 Spaghetti code specialist | Python & Django 🐍 | Flutter & React Native 📱 | AWS Lightsail Containers ☁️
 
-<!--
-**two-trick-pony-NL/two-trick-pony-NL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Peter, a developer good with Python with a focus on the Django framework, crafting scalable and efficient solutions. For frontend I use Flutter and React Native for seamless cross-platform applications. Most of my solutions are hosted on AWS in Lightsail Containers.
 
-Here are some ideas to get you started:
+## 💻 Technical Proficiency:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Python & Django:** Mastery in developing robust backends.
+- **Flutter & React Native:** Crafting seamless cross-platform experiences.
+- **AWS Lightsail Containers:** Specialized expertise in containerized hosting and scaling.
+
+
+## 🌐 Collaboration:
+Open to merge requests on my projects - show me what you got. Or freelance if you want me on your project as developer or product owner.
+
+## 📫 Contact:
+Let's collaborate! Reach out via email at hello@petervandoorn.com or visit my website petervandoorn.com. 💼💻
